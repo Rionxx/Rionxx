@@ -1,6 +1,5 @@
 # Rionxx
-![github stats](https://github-readme-stats.vercel.app/api?username=RionXX&show_icons=true&theme=vue&count_private=true)
-
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Rionxx)](https://github.com/Rion/github-readme-stats)
 <br>
 
 # 自己紹介
